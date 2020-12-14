@@ -1,10 +1,10 @@
 import React from 'react';
 
 
-const HomePage = () => (
-    <div className='homepage'>
+const AboutPage = () => (
+    <div className='aboutpage'>
 
     </div>
 );
 
-export default HomePage
+export default AboutPage;

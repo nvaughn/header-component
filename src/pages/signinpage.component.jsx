@@ -1,10 +1,10 @@
 import React from 'react';
 
 
-const HomePage = () => (
-    <div className='homepage'>
+const SignInPage = () => (
+    <div className='signinpage'>
 
     </div>
 );
 
-export default HomePage
+export default SignInPage;
