@@ -1,6 +1,5 @@
 import React from 'react';
-import {Switch, Route, Redirect} from 'react-router-dom';
-import logo from './goatico.png';
+import {Switch, Route } from 'react-router-dom';
 import './App.css';
 
 import HomePage from './pages/homepage.component';
